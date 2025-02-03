@@ -11,6 +11,7 @@ Repositorio de configuraciones personales para mi entorno de escritorio en Loc-O
 - Herbstluftwm
 - Tint2
 - Plank
+- Jgmenu
 
 ## Instalación
 ```bash
